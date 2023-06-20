@@ -20,11 +20,11 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 | Product sale | **YES** |
 | Remove footer credits | **YES** |
 | --- | --- |
-| Remove copyright mentions from source code | NO |
-| Production deployment assistance | NO |
-| Create HTML/CSS template for sale | NO |
-| Create Theme/Template for CMS for sale | NO |
-| Separate sale of our UI Elements | NO |
+| Remove copyright mentions from source code | **YES** |
+| Production deployment assistance | **YES** |
+| Create HTML/CSS template for sale | **YES** |
+| Create Theme/Template for CMS for sale | **YES** |
+| Separate sale of our UI Elements | **YES** |
 
 <br />
 

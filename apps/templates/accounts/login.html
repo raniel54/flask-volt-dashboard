@@ -1,6 +1,6 @@
 {% extends "layouts/base-fullscreen.html" %}
 
-{% block title %} Sign IN {% endblock %} 
+{% block title %} Login {% endblock %} 
 
 <!-- Specific Page CSS goes HERE  -->
 {% block stylesheets %}{% endblock stylesheets %}
@@ -15,8 +15,8 @@
                     <div class="col-12 d-flex align-items-center justify-content-center">
                         <div class="bg-white shadow border-0 rounded border-light p-4 p-lg-5 w-100 fmxw-500">
                             <div class="text-center text-md-center mb-4 mt-md-0">
-                                <h1 class="mb-0 h3">
-                                    Login CSPC
+                                <h1 class="mb-0 h3" >
+                                    <img src="./" alt="">
                                 </h1>
                                 <br />
                                 <p>
@@ -58,11 +58,11 @@
                                         <div class="form-check">
                                             <input class="form-check-input" type="checkbox" value="" id="remember">
                                             <label class="form-check-label mb-0" for="remember">
-                                              Remember me
+                                              Lembreme
                                             </label>
                                         </div>
                                         <div>
-                                            <a href="{{ url_for('authentication_blueprint.register') }}" class="fw-bold text-right">Register</a>
+                                            <a href="{{ url_for('authentication_blueprint.register') }}" class="fw-bold text-right">Registre-se</a>
                                         </div>
                                     </div>
                                 </div>
